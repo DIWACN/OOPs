@@ -1,4 +1,4 @@
-package Lab_Experiment01;
+package Exp01;
 public class DisplayInfo {
     public static void main(String[] args) {
         System.out.println("Name: Diwakar");  

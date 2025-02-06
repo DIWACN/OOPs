@@ -1,4 +1,5 @@
-package Lab_Experiment01;
+package Exp01;
+
 public class Gradesheet {
     public static void main(String[] args) {
         System.out.println("************************************");
